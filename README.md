@@ -44,7 +44,7 @@ public/ # Static assets
 ## 📦 Getting Started Locally
 
 # Clone the repo
-git clone https://github.com/your-username/terraform-website.git
+git clone https://github.com/arvind-04/CLoud_Computing_Website
 cd terraform-website
 
 # Install dependencies
